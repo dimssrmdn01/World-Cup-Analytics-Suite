@@ -42,11 +42,11 @@ pip install streamlit pandas numpy scikit-learn plotly textblob
 
 3. Run the applications (open separate terminals for each, or run one at a time):
 ```bash
-streamlit run app.py         # Launch Match Predictor
-streamlit run tracker.py     # Launch Scout Terminal
-streamlit run sentiment.py   # Launch Sentiment Radar
+streamlit run app.py         
+streamlit run tracker.py     
+streamlit run sentiment.py   
 ```
 
-## 👨‍💻 Author
+##  Author
 **Dimas Arya Ramadhan**
 Data Science Enthusiast | Building intelligent systems through data.
