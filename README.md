@@ -1,8 +1,8 @@
-#  World Cup Analytics Suite
+# World Cup Analytics Suite
 
 An integrated, end-to-end data science ecosystem for sports analytics. This suite combines Supervised Learning, Unsupervised Learning, and Natural Language Processing (NLP) into three interactive Streamlit web applications.
 
-##  Modules Overview
+## Modules Overview
 
 ### 1.  Match Outcome Predictor (`app.py`)
 A predictive engine that calculates the probability of match outcomes (Home Win, Draw, Away Win) based on team power ratings and home advantage.
@@ -19,7 +19,7 @@ A real-time public opinion tracker that simulates and analyzes social media feed
 * **Engine:** TextBlob (Natural Language Processing).
 * **Features:** Live timeline charts, polarity scoring (Positive/Negative/Neutral), and a real-time simulated stream feed.
 
-##  Tech Stack
+## Tech Stack
 * **Language:** Python 3
 * **Frontend:** Streamlit, HTML/CSS (Custom Styling)
 * **Machine Learning:** Scikit-Learn (Logistic Regression, K-Means, PCA, StandardScaler)
@@ -27,7 +27,7 @@ A real-time public opinion tracker that simulates and analyzes social media feed
 * **Visualization:** Plotly Express
 * **NLP:** TextBlob
 
-##  Installation & Usage
+## Installation & Usage
 
 1. Clone this repository:
 ```bash
